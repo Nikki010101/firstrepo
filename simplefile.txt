@@ -1,5 +1,9 @@
-01 line Every
+01 line Every.....c
 02 line Good
+<<<<<<< HEAD
 03 line Boy!!!!!!!
+=======
+03 line Boy.....c
+>>>>>>> alternative
 04 line Deserves
 05 line Favor!!!!!!!
